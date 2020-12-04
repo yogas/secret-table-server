@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://yogas:yogas123456@secretcluster.rxfpe.mongodb.net/secret?retryWrites=true&w=majority",
+    "jwtSecret": "myJWT_Secret"
+}
